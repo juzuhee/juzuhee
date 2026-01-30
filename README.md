@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Juhee Oh
 
-<!--
-**juzuhee/juzuhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects
+- **Fitpin**
+  - Role: Planning, Design, Frontend (App & Web)
+- **ShimBox**
+  - Role: Team Lead, Planning, Design, Frontend (App & Web), AI
+- **WishU**
+  - Role: Planning, Design, Web
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech / Tools
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks**: React
+- **Design**: Figma
+- **Collaboration**: GitHub, Notion, Slack
+- **Etc**: PowerPoint
+
+---
+
+### Experience
+- DirectionSoft Intern (Service Planning)
+  - IA design, feature definition, wireframe, UI draft
